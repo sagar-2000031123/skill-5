@@ -1,6 +1,6 @@
 package Lab05;
 
-public class Class {
+public class junit {
   class Main {
 
       public static void main(String[] args) {
